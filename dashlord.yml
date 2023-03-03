@@ -23,5 +23,3 @@ tools:
 urls:
   - url: https://www.insee.fr
   - url: https://datalab.sspcloud.fr
-     repositories:
-      - InseeFrLab/onyxia
